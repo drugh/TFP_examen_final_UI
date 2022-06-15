@@ -3,4 +3,22 @@ td, th {
     text-align: left;
     padding: 8px;
     font-size: 12px;
-  }
+}
+
+
+.listToysContainer {
+  margin: auto;
+  width: max-content;
+  margin-bottom: 50px;
+  margin-top: 30px
+}
+
+#refresh {
+  margin: 20px;
+  background-color: green;
+  padding: 5px 10px;
+  border: 0px;
+  color: white;
+  font-family: cursive;
+  border-radius: 3px;
+}

@@ -1,0 +1,47 @@
+.field {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px 10px;
+}
+
+#toyForm {
+    width: 300px;
+    margin: auto;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+}
+
+#submit {
+    text-align: center;
+    background-color: green;
+    width: 100%;
+    margin: 10px 0px;
+    padding: 5px 0px;
+    color: white;
+    font-family: cursive;
+    border: 0px;
+    border-radius: 3px;
+}
+
+#message {
+    text-align: center;
+    margin: 10px 0px;
+    width: fit-content;
+    display: inline;
+}
+
+#done {
+    width: 20px;
+    height: 20px;
+    display: inline;
+    background-color: green;
+}
+
+#msgContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
